@@ -1,28 +1,48 @@
-🎼 Sound Palette & Roadmap
-Currently, the theme includes core events (Login/Logout). We are actively working on expanding the library to include:
+# 🔊 Fresh and Clean Sound Theme
 
-[x] System: Login, Logout.
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jemo121/fresh-and-clean-sound-theme/graphs/commit-activity)
+[![Standard](https://img.shields.io/badge/Freedesktop-Compliant-blue.svg)](https://www.freedesktop.org/wiki/Specifications/sound-theme-spec/)
 
-[ ] Notifications: Information, Warning, Error (In progress).
+> *“Auditory elegance for the modern Linux desktop.”*
 
-[ ] Power: Battery Low, AC Adapter Connect/Disconnect.
+---
 
-[ ] Hardware: Device Connect/Remove.
+## 📖 About
+**Fresh and Clean Sound Theme** is a curated collection of minimalist sound cues designed to provide *clear, non-intrusive feedback* for Linux desktop environments. 
 
-[ ] Trash: Empty Trash.
+This project is a **professional continuation** of the legacy left by **dolphinoracle** (MX Linux Team). While the original repository was a core part of the MX Linux experience, this fork aims to:
 
-🤝 Contributing
-We welcome contributions from sound designers and Linux enthusiasts!
+* **Modernize** the file structure to meet `freedesktop.org` standards.
+* **Expand** the sound palette to include mobile, power, and notification events.
+* **Preserve** the "Fresh and Clean" philosophy: sounds that are felt, but not heard as a distraction.
+* **Reach** more Linux Distos.
 
-If you want to propose a new sound, please ensure it is in .ogg (Vorbis) format.
+---
 
-Check our Issues to report bugs, suggest new sound events, or provide feedback on the acoustic profile of existing sounds.
+## 🛠 Installation
 
-📜 Legacy & License
-This project honours the work of dolphinoracle, a pillar of the MX Linux community.
+### System-wide (Recommended)
+To make the theme available for all users on **Debian-based distos or Arch-based distros**, run:
+```bash
+#bash
+sudo cp -r Fresh_and_Clean /usr/share/sounds/
+```
 
-Original Creator: dolphinoracle (MX Linux Team).
+### Local Users
+If you do not have root access run:
 
-Current Maintainer: Jemo 121
+```bash
+#bash
+mkdir -p ~/.local/share/sounds/
+cp -r Fresh_and_Clean ~/.local/share/sounds/
+```
 
-Keep it fresh, keep it clean.
+### 🎼 Sound Palette & Roadmap
+- [x] **System:** Login, Logout.
+- [ ] **Notifications:** Information, Warning, Error (In progress).
+- [ ] **Power:** Battery Low, AC Adapter Connect/Disconnect.
+- [ ] **Hardware:** Device Connect/Remove.
+- [ ] **Trash:** Empty Trash.
+
+

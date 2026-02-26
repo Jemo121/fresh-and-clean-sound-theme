@@ -1,5 +1,7 @@
 [Sound Theme]
 Name=Fresh and Clean
+Comment=A minimalist and elegant sound theme
+Inherits=freedesktop
 Directories=stereo
 
 [stereo]
