@@ -3,6 +3,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jemo121/fresh-and-clean-soundtheme/graphs/commit-activity)
 [![Standard](https://img.shields.io/badge/Freedesktop-Compliant-blue.svg)](https://www.freedesktop.org/wiki/Specifications/sound-theme-spec/)
+[![GitHub issues](https://img.shields.io/github/issues/jemo121/fresh-and-clean-soundtheme?style=flat-square)](https://github.com/jemo121/fresh-and-clean-soundtheme/issues)
 
 > *“Auditory elegance for the modern Linux desktop.”*
 
@@ -20,13 +21,16 @@ This project is a **professional continuation** of the legacy left by **dolphino
 
 ---
 ### 🚀 Quick Menu
-* [⚡ Blitz install](#-blitz-install-recommended)
+* [⚡ Blitz install (Recommended)](#-blitz-install-recommended)
 * [📦 Package Manager installation](#-install-with-your-package-manager)
   * 🌀 [Debian/Ubuntu](#-debianubuntu)
   * 🎩 [Fedora/RHEL](#-fedorarhel)
   * 🏔️ [Arch Linux](#-arch-linux)
   * 🦎 [OpenSUSE/SLE](#-opensusesle)
 * [📂 Manual Installation](#-manual-installation)
+* [🎼 Sound Palette & Roadmap](#-sound-palette--roadmap)
+* [⚖️ License](#️-license--legacy)
+* [🐛 Report a Bug / Request Sounds](#-contributing)
 
 ---
 ## 🛠 Installation
@@ -39,11 +43,15 @@ curl -sSL https://raw.githubusercontent.com/jemo121/fresh-and-clean-soundtheme/m
 ```
 
 ### 📦 Install with your Package Manager
+> [!CAUTION]
+> **UNDER CONSTRUCTION**: Official packaging is in progress.
 
-#### 🌀 Debian/Ubuntu
-#### 🎩 Fedora/RHEL
-#### 🏔️ Arch Linux
-#### 🦎 OpenSUSE/SLE 
+| Distribution | Command | Status |
+| :--- | :--- | :--- |
+| ![Debian](https://img.shields.io/badge/Debian-D10048?style=flat-square&logo=debian&logoColor=white) **Debian / Ubuntu** | `sudo apt install fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white) **Fedora / RHEL** | `sudo dnf install fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) **Arch Linux** | `paru -S fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![openSUSE](https://img.shields.io/badge/openSUSE-73BA46?style=flat-square&logo=opensuse&logoColor=white) **openSUSE / SLE** | `sudo zypper in fresh-and-clean-soundtheme` | 🏗️ Planned |
 
 ### 📂 Manual Installation
 
@@ -51,18 +59,24 @@ curl -sSL https://raw.githubusercontent.com/jemo121/fresh-and-clean-soundtheme/m
 To make the theme available for all users on Linux, run:
 
 ```bash
+#bash
 git clone [https://github.com/jemo121/fresh-and-clean-soundtheme.git](https://github.com/jemo121/fresh-and-clean-soundtheme.git) /tmp/fresh-sound
 sudo cp -r /tmp/fresh-sound/Fresh_and_Clean /usr/share/sounds/
 rm -rf /tmp/fresh-sound
 ```
+
+Note for Fedora/RHEL users: If the theme doesn't appear, ensure correct permissions are set:
+`sudo chmod -R 755 /usr/share/sounds/Fresh_and_Clean`
 
 #### Local Users
 If you do not have root access run:
 
 ```bash
 #bash
+git clone [https://github.com/jemo121/fresh-and-clean-soundtheme.git](https://github.com/jemo121/fresh-and-clean-soundtheme.git) /tmp/fresh-sound
 mkdir -p ~/.local/share/sounds/
-cp -r Fresh_and_Clean ~/.local/share/sounds/
+cp -r /tmp/fresh-sound/Fresh_and_Clean ~/.local/share/sounds
+rm -rf /tmp/fresh-sound
 ```
 
 ---
