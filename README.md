@@ -23,13 +23,10 @@ This project is a **professional continuation** of the legacy left by **dolphino
 ### 🚀 Quick Menu
 * [⚡ Blitz install (Recommended)](#-blitz-install-recommended)
 * [📦 Package Manager installation](#-install-with-your-package-manager)
-  * 🌀 [Debian/Ubuntu](#-debianubuntu)
-  * 🎩 [Fedora/RHEL](#-fedorarhel)
-  * 🏔️ [Arch Linux](#-arch-linux)
-  * 🦎 [OpenSUSE/SLE](#-opensusesle)
 * [📂 Manual Installation](#-manual-installation)
+* [🤝 Contributing](./CONTRIBUTING.md)
 * [🎼 Sound Palette & Roadmap](#-sound-palette--roadmap)
-* [⚖️ License](#️-license--legacy)
+* [⚖️ License](./LICENSE)
 * [🐛 Report a Bug / Request Sounds](#-contributing)
 
 ---
@@ -44,14 +41,14 @@ curl -sSL https://raw.githubusercontent.com/jemo121/fresh-and-clean-soundtheme/m
 
 ### 📦 Install with your Package Manager
 > [!CAUTION]
-> **UNDER CONSTRUCTION**: Official packaging is in progress.
+> **UNDER CONSTRUCTION**: Official packaging is in progress for these distributions.
 
 | Distribution | Command | Status |
 | :--- | :--- | :--- |
-| ![Debian](https://img.shields.io/badge/Debian-D10048?style=flat-square&logo=debian&logoColor=white) **Debian / Ubuntu** | `sudo apt install fresh-and-clean-soundtheme` | 🏗️ Planned |
-| ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white) **Fedora / RHEL** | `sudo dnf install fresh-and-clean-soundtheme` | 🏗️ Planned |
-| ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) **Arch Linux** | `paru -S fresh-and-clean-soundtheme` | 🏗️ Planned |
-| ![openSUSE](https://img.shields.io/badge/openSUSE-73BA46?style=flat-square&logo=opensuse&logoColor=white) **openSUSE / SLE** | `sudo zypper in fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![Debian](https://img.shields.io/badge/Debian-D10048?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | `sudo apt install fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white) | `sudo dnf install fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![CachyOS](https://img.shields.io/badge/CachyOS-008080?style=flat-square&logo=linux&logoColor=white) | `sound-palette--roadmap -S fresh-and-clean-soundtheme` | 🏗️ Planned |
+| ![openSUSE](https://img.shields.io/badge/openSUSE-73BA46?style=flat-square&logo=opensuse&logoColor=white) | `sudo zypper in fresh-and-clean-soundtheme` | 🏗️ Planned |
 
 ### 📂 Manual Installation
 
