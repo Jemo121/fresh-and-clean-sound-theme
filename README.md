@@ -34,9 +34,14 @@ This project is a **professional continuation** of the legacy left by **dolphino
 
 ### ⚡ Blitz install (Recommended)
 
+> [!TIP]
+> **Fast & Automated:** This command downloads and runs the installation script.
+> We recommend reviewing the [install.sh](install.sh) file before execution.
+
 ```bash
 #bash
-curl -sSL https://raw.githubusercontent.com/jemo121/fresh-and-clean-soundtheme/master/install.sh | bash
+command -v curl >/dev/null 2>&1 || { echo >&2 "curl is required but not installed. Aborting."; exit 1; }
+curl -sSL [https://raw.githubusercontent.com/Jemo121/fresh-and-clean-soundtheme/master/install.sh](https://raw.githubusercontent.com/Jemo121/fresh-and-clean-soundtheme/master/install.sh) | bash
 ```
 
 ### 📦 Install with your Package Manager
