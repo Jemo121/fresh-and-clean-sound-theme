@@ -27,7 +27,7 @@ This project is a **professional continuation** of the legacy left by **dolphino
 * [🤝 Contributing](./CONTRIBUTING.md)
 * [🎼 Sound Palette & Roadmap](#-sound-palette--roadmap)
 * [⚖️ License](./LICENSE)
-* [🐛 Report a Bug / Request Sounds](#-contributing)
+* [🐛 Report a Bug / Request Sounds](https://github.com/jemo121/fresh-and-clean-soundtheme/issues)
 
 ---
 ## 🛠 Installation
