@@ -3,7 +3,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jemo121/fresh-and-clean-soundtheme/graphs/commit-activity)
 [![Standard](https://img.shields.io/badge/Freedesktop-Compliant-blue.svg)](https://www.freedesktop.org/wiki/Specifications/sound-theme-spec/)
-[![GitHub issues](https://img.shields.io/github/issues/jemo121/fresh-and-clean-soundtheme?style=flat-square)](https://github.com/jemo121/fresh-and-clean-soundtheme/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/jemo121/fresh-and-clean-soundtheme?style=flat-square)](https://github.com/jemo121/fresh-and-clean-soundtheme/issues)
 
 > *“Auditory elegance for the modern Linux desktop.”*
 
@@ -92,6 +92,15 @@ rm -rf /tmp/fresh-sound
 - [ ] **Hardware:** Device Connect/Remove.
 - [ ] **Trash:** Empty Trash.
 
-> [!TIP]
-> **Enjoying the theme?** Consider supporting the project via [GitHub Sponsors](https://github.com/sponsors/Jemo121)
-> 💙 Thank you! 💙
+---
+## 💙 Support the Project
+*Fresh and Clean* is free and open-source, maintained with passion for the Linux community. If this sound theme improves your desktop experience, please consider supporting its development.
+
+**How you can help:**
+
+* **Contribute:** Open an [Issue](https://github.com/jemo121/fresh-and-clean-soundtheme/issues) or submit a Pull Request to help us expand the palette.
+* **Individual Sponsors:** Support the project with [GitHub Sponsors](https://github.com/sponsors/Jemo121). Starting at just $2, you can help fuel future sound designs and infrastructure.
+* **Professional & Enterprise:** Need custom integration or high-fidelity sound design for your organization? Check out our [Enterprise & Custom Development](#-./SPONSORSHIP.md) options.
+
+> *Your support directly funds the development of new sound events and ensures long-term maintenance for all Linux distributions.*
+
