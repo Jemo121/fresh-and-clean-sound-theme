@@ -57,22 +57,25 @@ To make the theme available for all users on Linux, run:
 
 ```bash
 #bash
-git clone [https://github.com/jemo121/fresh-and-clean-soundtheme.git](https://github.com/jemo121/fresh-and-clean-soundtheme.git) /tmp/fresh-sound
-sudo cp -r /tmp/fresh-sound/Fresh_and_Clean /usr/share/sounds/
+git clone [https://github.com/jemo121/fresh-and-clean-soundtheme.git](https://github.com/jemo121/fresh-and-clean-soundtheme.git) /tmp/fresh-sound && \
+sudo cp -r /tmp/fresh-sound/Fresh_and_Clean /usr/share/sounds/ && \
 rm -rf /tmp/fresh-sound
 ```
 
-Note for Fedora/RHEL users: If the theme doesn't appear, ensure correct permissions are set:
-`sudo chmod -R 755 /usr/share/sounds/Fresh_and_Clean`
+> [!NOTE]
+> **For Fedora/RHEL users:** If the theme doesn't appear after installation, ensure the correct SELinux context and permissions are set:
+> ```bash
+> sudo chmod -R 755 /usr/share/sounds/Fresh_and_Clean
+> ```
 
 #### Local Users
 If you do not have root access run:
 
 ```bash
 #bash
-git clone [https://github.com/jemo121/fresh-and-clean-soundtheme.git](https://github.com/jemo121/fresh-and-clean-soundtheme.git) /tmp/fresh-sound
-mkdir -p ~/.local/share/sounds/
-cp -r /tmp/fresh-sound/Fresh_and_Clean ~/.local/share/sounds
+git clone https://github.com/jemo121/fresh-and-clean-soundtheme.git /tmp/fresh-sound && \
+mkdir -p ~/.local/share/sounds && \
+cp -r /tmp/fresh-sound/Fresh_and_Clean ~/.local/share/sounds/ && \
 rm -rf /tmp/fresh-sound
 ```
 
