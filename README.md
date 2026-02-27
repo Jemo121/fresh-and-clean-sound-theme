@@ -57,7 +57,7 @@ curl -sSL [https://raw.githubusercontent.com/Jemo121/fresh-and-clean-soundtheme/
 
 ### 📂 Manual Installation
 
-#### 🐧 System-wide (Recommended)
+#### System-wide (Recommended)
 To make the theme available for all users on Linux, run:
 
 ```bash
@@ -92,4 +92,6 @@ rm -rf /tmp/fresh-sound
 - [ ] **Hardware:** Device Connect/Remove.
 - [ ] **Trash:** Empty Trash.
 
-
+> [!TIP]
+> **Enjoying the theme?** Consider supporting the project via [GitHub Sponsors](https://github.com/sponsors/Jemo121)
+> 💙 Thank you! 💙
