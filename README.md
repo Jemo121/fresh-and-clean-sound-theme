@@ -100,7 +100,6 @@ rm -rf /tmp/fresh-sound
 
 * **Contribute:** Open an [Issue](https://github.com/jemo121/fresh-and-clean-soundtheme/issues) or submit a Pull Request to help us expand the palette.
 * **Individual Sponsors:** Support the project with [GitHub Sponsors](https://github.com/sponsors/Jemo121). Starting at just $2, you can help fuel future sound designs and infrastructure.
-* **Professional & Enterprise:** Need custom integration or high-fidelity sound design for your organization? Check out our [Enterprise & Custom Development](#-./SPONSORSHIP.md) options.
+* **Professional & Enterprise:** Need custom integration or high-fidelity sound design for your organization? Check out our [Enterprise & Custom Development](./SPONSORSHIP.md) options.
 
 > *Your support directly funds the development of new sound events and ensures long-term maintenance for all Linux distributions.*
-
