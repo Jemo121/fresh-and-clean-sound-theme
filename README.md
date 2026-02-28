@@ -4,6 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jemo121/fresh-and-clean-soundtheme/graphs/commit-activity)
 [![Standard](https://img.shields.io/badge/Freedesktop-Compliant-blue.svg)](https://www.freedesktop.org/wiki/Specifications/sound-theme-spec/)
 [![GitHub Issues](https://img.shields.io/github/issues/jemo121/fresh-and-clean-soundtheme?style=flat-square)](https://github.com/jemo121/fresh-and-clean-soundtheme/issues)
+[![Financial Contributors](https://opencollective.com/fresh-and-clean-sound-theme/tiers/badge.svg)](https://opencollective.com/fresh-and-clean-sound-theme)
 
 > *“Auditory elegance for the modern Linux desktop.”*
 
@@ -12,7 +13,7 @@
 ## 📖 About
 **Fresh and Clean Sound Theme** is a curated collection of minimalist sound cues designed to provide *clear, non-intrusive feedback* for Linux desktop environments. 
 
-This project is a **professional continuation** of the legacy left by **dolphinoracle** (MX Linux Team). While the original repository was a core part of the MX Linux experience, this fork aims to:
+This project is a **professional continuation** of the legacy left by [**dolphinoracle**](https://github.com/dolphnoracle) (MX Linux Team). While the original repository was a core part of the MX Linux experience, this fork aims to:
 
 * **Modernize** the file structure to meet `freedesktop.org` standards.
 * **Expand** the sound palette to include mobile, power, and notification events.
@@ -100,8 +101,6 @@ rm -rf /tmp/fresh-sound
 * **Code:** Open an [Issue](https://github.com/your-repo/issues) or submit a Pull Request to help us expand the palette.
 * **Sponsorship:** Support our development through [Open Collective](https://opencollective.com/fresh-and-clean-sound-theme).
 ### Our Sponsors & Backers
-Your support directly powers the next generation of sound themes. 
-
-[![Financial Contributors](https://opencollective.com/fresh-and-clean-sound-theme/tiers/badge.svg)](https://opencollective.com/fresh-and-clean-sound-theme)
+Your support directly powers the next generation of sound themes.
 [![Backers](https://opencollective.com/fresh-and-clean-sound-theme/backers.svg)](https://opencollective.com/fresh-and-clean-sound-theme)
 <br>*For detailed information on our sponsorship tiers and project governance, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md#sponsorship-and-governance).*
