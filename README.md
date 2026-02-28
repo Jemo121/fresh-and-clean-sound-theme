@@ -93,13 +93,15 @@ rm -rf /tmp/fresh-sound
 - [ ] **Trash:** Empty Trash.
 
 ---
-## 💙 Support the Project
-*Fresh and Clean* is free and open-source, maintained with passion for the Linux community. If this sound theme improves your desktop experience, please consider supporting its development.
+## ☕ Support the Project
+*Fresh and Clean* is an open-source project maintained by the community. If you enjoy the audio experience, consider becoming a sponsor to help us cover infrastructure costs, audio engineering tools, and long-term sustainability.
 
-**How you can help:**
+### Ways to contribute:
+* **Code:** Open an [Issue](https://github.com/your-repo/issues) or submit a Pull Request to help us expand the palette.
+* **Sponsorship:** Support our development through [Open Collective](https://opencollective.com/fresh-and-clean-sound-theme).
+### Our Sponsors & Backers
+Your support directly powers the next generation of sound themes. 
 
-* **Contribute:** Open an [Issue](https://github.com/jemo121/fresh-and-clean-soundtheme/issues) or submit a Pull Request to help us expand the palette.
-* **Individual Sponsors:** Support the project with [GitHub Sponsors](https://github.com/sponsors/Jemo121). Starting at just $2, you can help fuel future sound designs and infrastructure.
-* **Professional & Enterprise:** Need custom integration or high-fidelity sound design for your organization? Check out our [Enterprise & Custom Development](./SPONSORSHIP.md) options.
-
-> *Your support directly funds the development of new sound events and ensures long-term maintenance for all Linux distributions.*
+[![Financial Contributors](https://opencollective.com/fresh-and-clean-sound-theme/tiers/badge.svg)](https://opencollective.com/fresh-and-clean-sound-theme)
+[![Backers](https://opencollective.com/fresh-and-clean-sound-theme/backers.svg)](https://opencollective.com/fresh-and-clean-sound-theme)
+<br>*For detailed information on our sponsorship tiers and project governance, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md#sponsorship-and-governance).*
